@@ -1,6 +1,6 @@
 andrewrothstein.iproute
 =========
-[![Build Status](https://travis-ci.org/andrewrothstein/ansible-iproute.svg?branch=master)](https://travis-ci.org/andrewrothstein/ansible-iproute)
+![Build Status](https://github.com/andrewrothstein/ansible-iproute/actions/workflows/build.yml/badge.svg)
 
 Installs the iproute OS package.
 
