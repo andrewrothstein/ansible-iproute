@@ -10,7 +10,7 @@
       paths:
         - '{{ role_path }}/vars'
 - name: installing {{ iproute_os_pkg }}...
-  become: yes
+  become: true
   become_user: root
   package:
     name: '{{ iproute_os_pkg }}'
